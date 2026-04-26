@@ -2,7 +2,7 @@
 
 ## Assigned tasks
 
-- **Omarhelmy**
+- **Omar Helmy**
   - Own the **scoreboard** design and implementation.
   - Responsibilities:
     - Define scoreboarding checks for APB transactions.
