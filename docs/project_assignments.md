@@ -22,6 +22,13 @@
       - interrupt/clear-on-write behavior
       - illegal access or reserved register protection
 
+- **Eyad Mohamed**
+  - Own the **APB agent** implementation.
+  - Responsibilities:
+    - Implement the APB driver/agent for register read/write stimulus.
+    - Integrate APB transactions with the reference model and scoreboard.
+    - Support the required APB-focused tests such as `reg_access_test` and `interrupt_test`.
+
 ## Suggested team split for 7 members
 
 1. **Testbench / Makefile integrator**
